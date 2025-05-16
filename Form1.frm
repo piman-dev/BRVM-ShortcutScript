@@ -1,7 +1,7 @@
 VERSION 5.00
 Begin VB.Form Form1 
    BorderStyle     =   1  'Fixed Single
-   Caption         =   "BriarRose Virtual Machine 3.0 - Shortcut Session"
+   Caption         =   "BriarRose Virtual Machine - Shortcut Session"
    ClientHeight    =   1065
    ClientLeft      =   45
    ClientTop       =   435
