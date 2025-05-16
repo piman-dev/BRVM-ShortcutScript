@@ -53,7 +53,7 @@ Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
 Private Sub Command1_Click()
-Shell "Z:\usr\glibc\opt\Input Bridge 0.1.9\ib.exe", vbMinimizedFocus
+Shell "Z:\usr\bin\ib.exe", vbMinimizedFocus
 End Sub
 
 Private Sub Command2_Click()
@@ -61,5 +61,5 @@ End
 End Sub
 
 Private Sub Command3_Click()
-Shell "Z:\home\.shortcuts\your_shortcut_executable_for_brvm_2_16.exe", vbNormalFocus
+Shell "Z:\home\.shortcuts\your_game.exe", vbNormalFocus
 End Sub
